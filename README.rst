@@ -1,4 +1,4 @@
-| compound_flood_risk_MLA.
+| Compound_TGP.
 | Author: Lucas Terlinden-Ruhl.
 | Contact: lucas.terlindenruhl@gmail.com.
 | 
