@@ -1,4 +1,4 @@
-# Compound_MLA
+# Compound_TGP
 # Copyright (C) 2024 Terlinden-Ruhl
 
 # This program is free software: you can redistribute it and/or modify

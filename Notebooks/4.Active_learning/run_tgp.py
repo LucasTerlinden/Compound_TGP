@@ -1,5 +1,7 @@
-from Notebooks.Scripts.samp_algo import mda_tgp
+import numpy as np
 import pandas as pd
+
+from Notebooks.Scripts.samp_algo import mda_tgp
 
 if __name__ == '__main__':
 
@@ -17,3 +19,4 @@ if __name__ == '__main__':
     folder_to_save = 'Notebooks/4.Active_learning/'
 
     mda_tgp(df_two, 'TGP_{nvar}_single', folder_to_save + '{nvar}_single/', total_samples = 100, restart = False)
+    np.savetxt('fitted_stats/TGP_{nvar}_single.txt', [1])

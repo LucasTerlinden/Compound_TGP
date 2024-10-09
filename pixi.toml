@@ -1,0 +1,39 @@
+[project]
+authors = ["Dirk Eilander <dirk.eilander@gmail.com>"]
+channels = ["conda-forge", "bioconda", "main", "r", "msys2"]
+description = "Add a short description here"
+name = "compound_mla"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+r = "*"
+r-tgp = "*"
+python = "3.11.*"
+dask = "*"
+geopandas = "1.0*"
+jupyter = "*"
+matplotlib = "3.8.2.*"
+numba = "0.59.*"
+numpy = "1.26.*"
+pandas = "2.2.*"
+pyvinecopulib = "*"
+pyextremes = "2.3.2.*"
+hydromt = "0.10.0.*"
+hydromt_sfincs = "1.1.0.*"
+requests = "2.31.*"
+scipy = "1.12.*"
+seaborn = "0.13.2.*"
+scikit-learn = "1.4.0.*"
+xarray = "2024.3.0.*"
+snakemake = "*"
+
+[pypi-dependencies]
+fitter = "==1.7.0"
+pdf2image = "==1.17.0"
+kingpin-tgp = "*"
+qc-selector = "==v0.0.2b4"
+delft-fiat = "==0.1.0rc2"  
+hydromt-fiat = { git = "https://github.com/Deltares/hydromt_fiat.git" }

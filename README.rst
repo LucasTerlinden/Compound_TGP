@@ -3,18 +3,36 @@
 | Contact: lucas.terlindenruhl@gmail.com.
 | 
 | Repository created to store data, scripts, and notebooks related to the research paper titled:
-| Accelerating compound flood risk assessments through active learning: A case study of Charleston County (USA)
+| Accelerating compound flood risk assessments through active learning: A case study of Charleston County (USA).
 
-How to install & run
+How to install & run (conda 24.1.2)
 --------------------
 :: 
 
   > conda env create -f environment.yml
   > conda env create -f environment_2.yml
   > conda activate run_compound
-  > pip install git+https://github.com/Deltares/Delft-FIAT.git
-  > pip install git+https://github.com/theochem/Selector.git
+  > pip install delft-fiat==0.1.0rc2
+  > pip install qc-selector==v0.0.2b4
 | R should also be installed, and added to the path of your system. The <tgp> package should also be installed seperately in R.
+|
+| We also provide a pixi and snakefile.
+| It allows to install the environemnt, and run the entire workflow + experiments in one command.
+| However, it is slower than running in VS Code directly.
+
+How to install & run
+--------------------
+
+install pixi from https://pixi.sh/latest/
+
+::
+
+  > git clone
+  > pixi install --frozen
+  > pixi shell
+  > snakemake -s snakefile.smk -n # dry-run
+  > snakemake -s snakefile.smk -c 1 # run
+
 
 Repository outline
 ------------------
