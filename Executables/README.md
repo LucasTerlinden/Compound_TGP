@@ -1,0 +1,1 @@
+Folder needs to contain the executables (SFINCS and FIAT) used in FloodAdapt. Folders should be named: "SFINCS_executable" and "FIAT_executable".

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::26917" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "ashley_river" }, "geometry": { "type": "Point", "coordinates": [ 597932.800000000046566, 3626994.0 ] } },
+{ "type": "Feature", "properties": { "name": "8665530" }, "geometry": { "type": "Point", "coordinates": [ 600832.199999999953434, 3627411.1 ] } }
+]
+}

@@ -1,0 +1,21 @@
+2024-02-19 13:33:22,270 - hydromt_fiat - log - DEBUG - Writing log messages to new file C:\Users\terlinde\Documents\FloodAdapt\Database\charleston\output\Scenarios\Compound\Impacts\fiat_model\hydromt.log.
+2024-02-19 13:33:22,271 - hydromt_fiat - fiat - INFO - Updating all data objects...
+2024-02-19 13:33:22,278 - hydromt_fiat - fiat - INFO - Writing model data to C:\Users\terlinde\Documents\FloodAdapt\Database\charleston\output\Scenarios\Compound\Impacts\fiat_model
+2024-02-19 13:33:22,279 - hydromt_fiat - model_api - INFO - Writing model config to C:\Users\terlinde\Documents\FloodAdapt\Database\charleston\output\Scenarios\Compound\Impacts\fiat_model\settings.toml
+2024-02-19 13:33:22,281 - hydromt_fiat - model_api - DEBUG - Writing file hazard/hazard_map.nc
+2024-02-19 13:33:22,295 - hydromt_fiat - model_api - DEBUG - Writing file exposure/exposure.gpkg
+2024-02-19 13:33:50,463 - hydromt_fiat - model_api - DEBUG - Writing file exposure/exposure1.gpkg
+2024-02-19 13:33:54,125 - hydromt_fiat - fiat - INFO - Writing model exposure table file to exposure/exposure.csv.
+2024-02-19 13:33:56,670 - hydromt_fiat - fiat - INFO - Writing model vulnerability_curves table file to vulnerability/vulnerability_curves.csv.
+2024-03-21 16:46:45,733 - hydromt_fiat - log - DEBUG - Appending log messages to file C:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\fiat_model\hydromt.log.
+2024-03-21 16:46:45,743 - hydromt_fiat - model_api - INFO - Initializing fiat model from hydromt_fiat (v0.2.1.dev0).
+2024-03-21 16:46:45,745 - hydromt_fiat - fiat - INFO - Reading model data from C:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\fiat_model
+2024-03-21 16:46:45,749 - hydromt_fiat - model_api - DEBUG - User defined config read from C:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\fiat_model\settings.toml
+2024-03-21 16:46:45,750 - hydromt_fiat - fiat - INFO - Reading model table files.
+2024-03-21 16:46:45,751 - hydromt_fiat - fiat - DEBUG - Reading vulnerability table C:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\fiat_model\vulnerability\vulnerability_curves.csv
+2024-03-21 16:46:46,062 - hydromt_fiat - fiat - DEBUG - Reading exposure table C:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\fiat_model\exposure\exposure.csv
+2024-03-21 16:46:46,702 - hydromt_fiat - fiat - INFO - Reading exposure geometries.
+2024-03-21 16:46:46,702 - hydromt_fiat - exposure_vector - INFO - Setting geometry name to exposure...
+2024-03-21 16:46:47,482 - hydromt_fiat - exposure_vector - INFO - Setting exposure geometries...
+2024-03-21 16:46:47,482 - hydromt_fiat - exposure_vector - INFO - Setting geometry name to exposure1...
+2024-03-21 16:46:47,572 - hydromt_fiat - exposure_vector - INFO - Setting exposure geometries...

@@ -1,0 +1,872 @@
+2024-02-25 12:17:20,281 - SFINCS_log_charleston - log - DEBUG - Writing log messages to new file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-25 12:17:20,283 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-25 12:17:20,312 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-25 12:17:22,422 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-25 12:17:22,422 - SFINCS_log_charleston - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\testing\gis.
+2024-02-25 12:19:35,614 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-25 12:19:35,616 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-25 12:19:35,639 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-25 12:19:35,988 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-25 12:19:35,988 - SFINCS_log_charleston - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\testing\gis.
+2024-02-25 12:31:47,857 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-25 12:31:47,859 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-25 12:31:47,879 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-25 12:31:49,644 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-25 12:31:49,644 - SFINCS_log_charleston - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\testing\gis.
+2024-02-25 12:38:42,409 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-25 12:38:42,411 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-25 12:38:42,463 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-25 12:38:43,810 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-25 12:38:43,810 - SFINCS_log_charleston - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\testing\gis.
+2024-02-26 09:33:55,460 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-26 09:33:55,469 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-26 09:33:55,486 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-26 09:33:57,519 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-26 09:33:57,534 - SFINCS_log_charleston - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\testing\gis.
+2024-02-26 09:58:41,060 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-26 09:58:41,065 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-26 09:58:41,081 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-26 09:58:41,546 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-26 09:58:41,546 - SFINCS_log_charleston - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\testing\gis.
+2024-02-27 11:46:49,044 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-27 11:46:49,052 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-27 11:46:49,102 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-27 11:46:50,536 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-27 11:46:50,545 - SFINCS_log_charleston - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\testing\gis.
+2024-02-27 16:15:37,240 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-27 16:15:37,243 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-27 16:15:37,277 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-27 16:15:37,922 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-27 16:15:37,925 - SFINCS_log_charleston - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\testing\gis.
+2024-02-27 16:16:54,959 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-27 16:16:54,961 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-27 16:16:54,974 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-27 16:16:55,392 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-27 16:16:55,396 - SFINCS_log_charleston - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\testing\gis.
+2024-02-27 16:40:57,641 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-27 16:40:57,644 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-27 16:40:57,664 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-27 16:40:58,271 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 08:34:21,471 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 08:34:21,477 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 08:34:21,511 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 08:34:22,480 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 09:03:24,784 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 09:03:24,786 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 09:03:24,806 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 09:03:25,287 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 09:03:25,289 - SFINCS_log_charleston - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\Loop\sfincs_1\gis.
+2024-02-28 10:00:52,554 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 10:00:52,556 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 10:00:52,581 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 10:00:53,051 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 10:49:24,974 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 10:49:24,977 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 10:49:25,001 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 10:49:25,492 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 11:01:34,661 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 11:01:34,664 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 11:01:34,689 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 11:01:35,201 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 11:08:02,861 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 11:08:02,863 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 11:08:02,892 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 11:08:03,688 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 11:11:40,670 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 11:11:40,673 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 11:11:40,696 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 11:11:41,195 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 11:37:50,000 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 11:37:50,003 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 11:37:50,025 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 11:37:50,761 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 11:50:16,236 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 11:50:16,239 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 11:50:16,257 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 11:50:16,780 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 13:19:04,866 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 13:19:04,872 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 13:19:04,915 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 13:19:06,595 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 14:01:29,281 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 14:01:29,282 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 14:01:29,299 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 14:01:29,820 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 14:18:27,139 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 14:18:27,141 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 14:18:27,167 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 14:18:27,804 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 14:19:44,060 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 14:19:44,064 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 14:19:44,097 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 14:19:44,746 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 14:33:34,226 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 14:33:34,230 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 14:33:34,245 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 14:33:34,913 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 14:33:42,361 - SFINCS_log_charleston - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\Loop\sfincs_0\gis.
+2024-02-28 14:43:43,084 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 14:43:43,086 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 14:43:43,107 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 14:43:43,985 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 16:28:45,359 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 16:28:45,361 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 16:28:45,378 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 16:28:45,971 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 16:38:40,455 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 16:38:40,457 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 16:38:40,474 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 16:38:41,142 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 16:39:59,761 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 16:39:59,762 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 16:39:59,785 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 16:40:00,760 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 16:52:48,169 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 16:52:48,172 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 16:52:48,193 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 16:52:48,729 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 16:54:03,407 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-28 16:54:03,414 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-28 16:54:03,560 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-28 16:54:04,446 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-28 16:54:17,084 - SFINCS_log_charleston - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\loop_test\sfincs_0\gis.
+2024-02-29 10:42:55,246 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 10:42:55,250 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 10:42:55,282 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 10:42:56,787 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 10:53:26,780 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 10:53:26,783 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 10:53:26,806 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 10:53:27,199 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 10:55:40,181 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 10:55:40,183 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 10:55:40,202 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 10:55:40,669 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 11:38:50,696 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 11:38:50,698 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 11:38:50,845 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 11:38:51,795 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 11:43:04,179 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 11:43:04,195 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 11:43:04,576 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 11:45:13,578 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 11:45:13,579 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 11:45:13,589 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 11:45:13,829 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 11:47:01,714 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 11:47:01,714 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 11:47:01,714 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 11:47:01,980 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 11:47:39,847 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 11:47:39,849 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 11:47:39,871 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 11:47:40,380 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 11:47:47,226 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 11:47:47,249 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 11:47:47,675 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 11:51:39,213 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 11:51:39,213 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 11:51:39,248 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 11:51:39,545 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 11:55:11,699 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 11:55:11,701 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 11:55:11,722 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 11:55:12,075 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 11:58:29,991 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 11:58:29,991 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 11:58:30,018 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 11:58:30,343 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:02:27,512 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:02:27,512 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:02:27,530 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:02:27,886 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:05:39,545 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:05:39,546 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:05:39,557 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:05:39,830 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:08:40,805 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:08:40,808 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:08:40,819 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:08:41,234 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:11:41,701 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:11:41,703 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:11:41,714 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:11:41,980 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:14:45,260 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:14:45,262 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:14:45,273 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:14:45,650 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:17:46,112 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:17:46,113 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:17:46,124 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:17:46,387 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:20:48,309 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:20:48,311 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:20:48,328 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:20:48,604 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:23:49,454 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:23:49,457 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:23:49,474 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:23:49,877 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:26:50,495 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:26:50,497 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:26:50,507 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:26:50,770 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:29:52,116 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:29:52,118 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:29:52,128 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:29:52,389 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:32:54,509 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:32:54,511 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:32:54,522 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:32:54,790 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:36:00,054 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:36:00,055 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:36:00,071 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:36:00,368 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:39:04,012 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:39:04,013 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:39:04,025 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:39:04,288 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:42:04,620 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:42:04,622 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:42:04,634 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:42:05,038 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:45:38,715 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:45:38,721 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:45:38,721 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:45:39,004 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:50:52,340 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:50:52,343 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:50:52,365 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:50:52,902 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:55:04,337 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:55:04,340 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:55:04,351 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:55:04,686 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 12:59:01,662 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 12:59:01,664 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 12:59:01,705 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 12:59:02,282 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 13:03:08,061 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 13:03:08,062 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 13:03:08,073 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 13:03:08,363 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 13:06:59,905 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 13:06:59,907 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 13:06:59,928 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 13:07:00,396 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 13:10:56,351 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 13:10:56,353 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 13:10:56,371 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 13:10:56,693 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 13:14:41,181 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 13:14:41,184 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 13:14:41,197 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 13:14:42,222 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 13:18:46,952 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 13:18:46,956 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 13:18:46,976 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 13:18:47,285 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 13:22:37,489 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 13:22:37,491 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 13:22:37,506 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 13:22:38,077 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 13:26:33,079 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 13:26:33,081 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 13:26:33,097 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 13:26:33,468 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 13:30:28,282 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 13:30:28,285 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 13:30:28,308 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 13:30:28,746 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 13:34:36,587 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 13:34:36,589 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 13:34:36,617 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 13:34:37,003 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 13:38:31,471 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 13:38:31,473 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 13:38:31,496 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 13:38:32,087 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 13:42:32,037 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 13:42:32,040 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 13:42:32,059 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 13:42:32,349 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 13:46:21,938 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 13:46:21,939 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 13:46:21,959 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 13:46:22,270 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 13:50:32,087 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 13:50:32,091 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 13:50:32,108 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 13:50:32,576 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 13:54:46,619 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 13:54:46,621 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 13:54:46,643 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 13:54:46,963 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 13:58:45,432 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 13:58:45,434 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 13:58:45,447 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 13:58:45,729 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 14:03:10,685 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 14:03:10,688 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 14:03:10,714 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 14:03:11,050 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 14:07:25,954 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 14:07:25,954 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 14:07:25,969 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 14:07:26,257 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 14:11:20,509 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 14:11:20,509 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 14:11:20,522 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 14:11:20,805 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 14:15:15,392 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 14:15:15,396 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 14:15:15,421 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 14:15:15,833 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 14:20:03,566 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 14:20:03,567 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 14:20:03,579 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 14:20:03,861 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 14:23:20,659 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 14:23:20,661 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 14:23:20,680 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 14:23:20,983 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 14:27:18,989 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 14:27:18,991 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 14:27:19,012 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 14:27:19,494 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 14:32:11,393 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 14:32:11,395 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 14:32:11,451 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 14:32:12,251 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 14:36:39,209 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 14:36:39,209 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 14:36:39,235 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 14:36:39,568 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 14:40:44,589 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 14:40:44,592 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 14:40:44,612 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 14:40:44,927 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 14:44:24,787 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 14:44:24,788 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 14:44:24,813 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 14:44:25,150 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 14:48:00,525 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 14:48:00,527 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 14:48:00,537 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 14:48:00,837 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 14:51:52,494 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 14:51:52,497 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 14:51:52,507 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 14:51:52,795 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 14:55:59,106 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 14:55:59,108 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 14:55:59,130 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 14:55:59,454 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 15:00:29,086 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 15:00:29,089 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 15:00:29,105 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 15:00:29,627 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 15:04:23,453 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 15:04:23,455 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 15:04:23,465 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 15:04:23,760 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 15:08:38,760 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 15:08:38,762 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 15:08:38,776 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 15:08:39,365 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 15:13:13,635 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 15:13:13,637 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 15:13:13,647 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 15:13:13,931 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 15:18:59,540 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 15:18:59,543 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 15:18:59,560 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 15:18:59,941 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 15:23:20,894 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 15:23:20,897 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 15:23:20,909 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 15:23:21,228 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 15:27:37,931 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 15:27:37,934 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 15:27:37,946 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 15:27:38,266 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 15:32:22,668 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 15:32:22,671 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 15:32:22,697 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 15:32:23,608 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 15:36:36,494 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 15:36:36,497 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 15:36:36,516 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 15:36:36,846 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 15:40:38,450 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 15:40:38,453 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 15:40:38,487 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 15:40:39,004 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 18:11:07,216 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 18:11:07,219 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 18:11:07,248 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 18:11:08,162 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 18:13:34,091 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 18:13:34,134 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 18:13:34,494 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 18:17:36,017 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 18:17:36,019 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 18:17:36,062 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 18:17:36,796 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 18:17:43,431 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 18:17:43,454 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 18:17:43,933 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 18:17:43,937 - SFINCS_log_charleston - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\mla_test\sfincs_0\gis.
+2024-02-29 18:20:56,350 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 18:20:56,352 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 18:20:56,368 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 18:20:57,366 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 18:21:05,777 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 18:21:05,802 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 18:21:06,334 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 18:21:06,340 - SFINCS_log_charleston - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\mla_test\sfincs_0\gis.
+2024-02-29 18:24:55,464 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 18:24:55,467 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 18:24:55,482 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 18:24:56,153 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 18:25:05,855 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 18:25:05,878 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 18:25:06,653 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 18:25:06,660 - SFINCS_log_charleston - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\mla_test\sfincs_0\gis.
+2024-02-29 21:18:12,839 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 21:18:12,841 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 21:18:12,875 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 21:18:13,958 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 21:19:25,634 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 21:19:25,636 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 21:19:25,661 - SFINCS_log_charleston - sfincs - WARNING - depfile not found at c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\sfincs.dep
+2024-02-29 21:19:26,549 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 21:22:34,534 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 21:22:34,536 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 21:22:34,938 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 21:23:25,982 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 21:23:25,982 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 21:23:26,549 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 21:25:02,626 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 21:25:02,628 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 21:25:03,006 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 21:25:15,132 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 21:25:15,132 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 21:25:15,817 - SFINCS_new - sfincs - INFO - Model read
+2024-02-29 21:25:44,418 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 21:25:44,420 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 21:25:45,022 - SFINCS_new - sfincs - INFO - Model read
+2024-02-29 21:26:00,137 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 21:26:00,480 - SFINCS_new - sfincs - INFO - Model read
+2024-02-29 21:26:00,489 - SFINCS_new - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\mla_test\sfincs_0\gis.
+2024-02-29 21:28:45,967 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 21:28:45,971 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 21:28:46,363 - SFINCS_new - sfincs - INFO - Model read
+2024-02-29 21:28:46,368 - SFINCS_new - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\mla_test\sfincs_0\gis.
+2024-02-29 21:33:41,435 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\mla_test\sfincs_0\gis.
+2024-02-29 21:36:18,735 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\mla_test\sfincs_0\gis.
+2024-02-29 21:38:35,147 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 21:38:35,158 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 21:38:35,612 - SFINCS_new - sfincs - INFO - Model read
+2024-02-29 21:38:36,929 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\mla_test\sfincs_0\gis.
+2024-02-29 21:45:12,029 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 21:45:12,029 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 21:45:12,429 - SFINCS_new - sfincs - INFO - Model read
+2024-02-29 21:45:13,751 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\mla_test\sfincs_0\gis.
+2024-02-29 21:48:25,887 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 21:48:25,887 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 21:48:26,372 - SFINCS_new - sfincs - INFO - Model read
+2024-02-29 23:11:25,134 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\2d_Loop\sfincs_60\gis.
+2024-02-29 23:25:24,938 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-02-29 23:25:24,941 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-02-29 23:25:25,349 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-02-29 23:25:32,697 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\2d_Loop\sfincs_60\gis.
+2024-03-01 15:06:22,526 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-01 15:06:22,528 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-01 15:06:23,170 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-01 15:06:30,723 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\2d_Loop\sfincs_315\gis.
+2024-03-07 13:52:37,760 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 13:52:37,771 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 13:52:38,572 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 14:05:24,610 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 14:05:24,613 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 14:05:25,002 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 14:15:17,461 - SFINCS_log_charleston - data_catalog - INFO - Reading data catalog archive artifact_data v0.0.8
+2024-03-07 14:15:17,463 - SFINCS_log_charleston - data_catalog - DEBUG - Unpacking data from https://github.com/DirkEilander/hydromt-artifacts/releases/download/v0.0.8/data.tar.gz
+2024-03-07 14:15:20,150 - SFINCS_log_charleston - data_catalog - INFO - Parsing data catalog from C:\Users\terlinde\.hydromt_data\artifact_data\v0.0.8\data_catalog.yml
+2024-03-07 14:21:36,895 - SFINCS_log_charleston - sfincs - INFO - Writing model data to c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen
+2024-03-07 14:21:36,899 - SFINCS_log_charleston - sfincs - DEBUG - Write binary map indices based on mask.
+2024-03-07 14:21:36,912 - SFINCS_log_charleston - sfincs - DEBUG - Write binary map files: ['msk', 'dep', 'scs'].
+2024-03-07 14:21:36,919 - SFINCS_log_charleston - sfincs - INFO - Write raster file(s) for grid to 'gis' subfolder
+2024-03-07 14:21:37,313 - SFINCS_log_charleston - sfincs - INFO - Write geom files
+2024-03-07 14:21:37,575 - SFINCS_log_charleston - sfincs - INFO - Write vector file(s) for geoms to 'gis' subfolder
+2024-03-07 14:21:37,815 - SFINCS_log_charleston - sfincs - INFO - Write forcing files
+2024-03-07 14:21:37,917 - SFINCS_log_charleston - sfincs - INFO - Write vector file(s) for forcing.dis to 'gis' subfolder
+2024-03-07 14:21:38,091 - SFINCS_log_charleston - sfincs - WARNING - zsini not in states, skipping
+2024-03-07 14:24:52,737 - SFINCS_log_charleston - dataframe - DEBUG - Slicing time dime (datetime.datetime(2020, 1, 2, 0, 0), datetime.datetime(2020, 1, 3, 12, 0))
+2024-03-07 14:25:31,919 - SFINCS_log_charleston - dataframe - DEBUG - Slicing time dime (datetime.datetime(2020, 1, 2, 0, 0), datetime.datetime(2020, 1, 3, 12, 0))
+2024-03-07 14:25:32,661 - SFINCS_log_charleston - geodataframe - DEBUG - Clip intersects [565171.000, 3593692.000, 639171.000, 3654492.000] (EPSG:26917)
+2024-03-07 14:26:12,726 - SFINCS_log_charleston - dataframe - DEBUG - Slicing time dime (datetime.datetime(2020, 1, 2, 0, 0), datetime.datetime(2020, 1, 3, 12, 0))
+2024-03-07 14:26:13,727 - SFINCS_log_charleston - geodataframe - DEBUG - Clip intersects [565171.000, 3593692.000, 639171.000, 3654492.000] (EPSG:26917)
+2024-03-07 14:27:30,667 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 14:27:30,669 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 14:27:47,952 - SFINCS_log_charleston - dataframe - DEBUG - Slicing time dime (datetime.datetime(2010, 2, 1, 0, 0), datetime.datetime(2010, 2, 2, 0, 0))
+2024-03-07 14:28:10,408 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 14:28:10,427 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 14:28:20,746 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 14:28:20,749 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 14:28:21,178 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 14:28:47,280 - SFINCS_log_charleston - dataframe - DEBUG - Slicing time dime (datetime.datetime(2020, 1, 2, 0, 0), datetime.datetime(2020, 1, 3, 12, 0))
+2024-03-07 14:28:47,998 - SFINCS_log_charleston - geodataframe - DEBUG - Clip intersects [565171.000, 3593692.000, 639171.000, 3654492.000] (EPSG:26917)
+2024-03-07 14:28:48,027 - SFINCS_log_charleston - sfincs - INFO - Write forcing files
+2024-03-07 14:28:48,159 - SFINCS_log_charleston - sfincs - INFO - Write vector file(s) for forcing.bzs to 'gis' subfolder
+2024-03-07 14:28:48,306 - SFINCS_log_charleston - sfincs - INFO - Write vector file(s) for forcing.dis to 'gis' subfolder
+2024-03-07 14:32:55,877 - SFINCS_log_charleston - geodataframe - DEBUG - Clip intersects [565171.000, 3593692.000, 639171.000, 3654492.000] (EPSG:26917)
+2024-03-07 14:32:55,897 - SFINCS_log_charleston - sfincs - INFO - Write forcing files
+2024-03-07 14:32:55,946 - SFINCS_log_charleston - sfincs - INFO - Write vector file(s) for forcing.bzs to 'gis' subfolder
+2024-03-07 14:32:56,058 - SFINCS_log_charleston - sfincs - INFO - Write vector file(s) for forcing.dis to 'gis' subfolder
+2024-03-07 14:50:06,187 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 14:50:06,191 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 14:50:06,848 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 14:52:08,839 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 14:52:08,841 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 14:52:09,245 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 15:00:12,912 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 15:00:12,916 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 15:00:13,282 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 15:10:48,284 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 15:10:48,286 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 15:10:48,825 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 15:10:56,891 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\new_tide\sfincs_folder\sfincs_0\gis.
+2024-03-07 15:17:39,459 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 15:17:39,464 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 15:17:39,993 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 15:17:51,045 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\new_tide\sfincs_folder\sfincs_0\gis.
+2024-03-07 15:18:52,709 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 15:18:52,713 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 15:18:53,090 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 15:19:02,052 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\new_tide\sfincs_folder\sfincs_0\gis.
+2024-03-07 15:19:36,087 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 15:19:36,092 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 15:19:36,673 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 15:19:45,647 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\new_tide\sfincs_folder\sfincs_0\gis.
+2024-03-07 15:21:48,174 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 15:21:48,178 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 15:21:48,560 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 15:21:57,049 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\new_tide\sfincs_folder\sfincs_0\gis.
+2024-03-07 15:31:58,367 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 15:31:58,369 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 15:31:58,785 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 15:36:23,166 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 15:36:23,169 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 15:36:24,112 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 15:36:37,230 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\new_tide\sfincs_folder\sfincs_0\gis.
+2024-03-07 15:39:21,544 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 15:39:21,547 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 15:39:22,049 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 15:39:32,150 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\new_tide\sfincs_folder\sfincs_0\gis.
+2024-03-07 15:42:04,021 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 15:42:04,023 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 15:42:04,608 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 15:42:13,925 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\new_tide\sfincs_folder\sfincs_0\gis.
+2024-03-07 15:42:21,990 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\new_tide\sfincs_folder\sfincs_0\gis.
+2024-03-07 15:56:55,036 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 15:56:55,040 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 15:56:55,492 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 15:57:49,839 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 15:57:49,842 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 15:57:50,239 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 16:10:08,641 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 16:10:08,657 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 16:10:09,187 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 16:10:17,191 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\new_tide\sfincs_folder\sfincs_0\gis.
+2024-03-07 16:13:04,348 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 16:13:04,350 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 16:13:04,818 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 16:13:12,951 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\new_tide\sfincs_folder\sfincs_0\gis.
+2024-03-07 16:16:28,354 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 16:16:28,356 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 16:16:28,724 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 16:16:36,480 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\new_tide\sfincs_folder\sfincs_0\gis.
+2024-03-07 16:29:59,292 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 16:29:59,294 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 16:29:59,862 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 16:41:27,487 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 16:41:27,489 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 16:41:27,976 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 16:42:46,958 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 16:42:46,961 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 16:42:47,378 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-07 16:59:18,035 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-07 16:59:18,038 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-07 16:59:18,439 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-08 09:19:53,961 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-08 09:19:53,964 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-08 09:19:54,547 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-08 09:20:03,035 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\new_tide\sfincs_folder\sfincs_0\gis.
+2024-03-08 09:50:07,928 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-08 09:50:07,932 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-08 09:50:08,275 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-08 10:25:41,819 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-08 10:25:41,825 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-08 10:25:42,396 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-08 10:27:30,795 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-08 10:27:30,797 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-08 10:27:31,347 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-08 10:27:39,938 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\sensitivity\sfincs_folder\sfincs_0\gis.
+2024-03-08 10:30:34,287 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-08 10:30:34,289 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-08 10:30:35,059 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-08 10:34:24,770 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-08 10:34:24,773 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-08 10:34:25,114 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-08 10:34:32,687 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\sensitivity\sfincs_folder\sfincs_0\gis.
+2024-03-08 10:36:26,398 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-08 10:36:26,401 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-08 10:36:26,734 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-08 10:36:33,869 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\sensitivity\sfincs_folder\sfincs_0\gis.
+2024-03-08 10:38:27,218 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-08 10:38:27,221 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-08 10:38:27,591 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-08 10:40:37,078 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-08 10:40:37,083 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-08 10:40:37,684 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-08 10:40:46,024 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\sensitivity\sfincs_folder\sfincs_0\gis.
+2024-03-08 15:07:48,872 - SFINCS_log_charleston - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-08 15:07:48,878 - SFINCS_log_charleston - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-08 15:07:50,105 - SFINCS_log_charleston - sfincs - INFO - Model read
+2024-03-09 09:31:57,642 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-09 09:31:57,657 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-09 09:31:58,458 - SFINCS_new - sfincs - INFO - Model read
+2024-03-10 10:55:25,498 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-10 10:55:25,498 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-10 10:55:26,339 - SFINCS_new - sfincs - INFO - Model read
+2024-03-10 11:04:51,333 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-10 11:04:51,333 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-10 11:04:51,796 - SFINCS_new - sfincs - INFO - Model read
+2024-03-10 11:06:14,450 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\mla_test\sfincs_folder\sfincs_0\gis.
+2024-03-11 09:33:38,038 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-11 09:33:38,041 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-11 09:33:38,895 - SFINCS_new - sfincs - INFO - Model read
+2024-03-11 09:47:57,933 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-11 09:47:57,936 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-11 09:47:58,312 - SFINCS_new - sfincs - INFO - Model read
+2024-03-11 11:49:30,099 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-11 11:49:30,101 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-11 11:49:30,820 - SFINCS_new - sfincs - INFO - Model read
+2024-03-12 13:02:16,708 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-12 13:02:16,711 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-12 13:02:17,593 - SFINCS_new - sfincs - INFO - Model read
+2024-03-13 09:06:23,145 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-13 09:06:23,148 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-13 09:06:24,005 - SFINCS_new - sfincs - INFO - Model read
+2024-03-13 09:36:47,244 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\compound_flood_risk_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-13 09:36:47,246 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-13 09:36:48,243 - SFINCS_new - sfincs - INFO - Model read
+2024-03-15 22:30:06,126 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-15 22:30:06,126 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-15 22:30:06,401 - SFINCS_new - sfincs - INFO - Model read
+2024-03-15 22:36:27,698 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-15 22:36:27,699 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-15 22:36:27,856 - SFINCS_new - sfincs - INFO - Model read
+2024-03-18 12:37:09,555 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-18 12:37:09,555 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-18 12:37:09,833 - SFINCS_new - sfincs - INFO - Model read
+2024-03-18 12:56:23,522 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-18 12:56:23,523 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-18 12:56:23,624 - SFINCS_new - sfincs - INFO - Model read
+2024-03-18 12:59:20,384 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-18 12:59:20,385 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-18 12:59:20,529 - SFINCS_new - sfincs - INFO - Model read
+2024-03-18 13:20:03,064 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-18 13:20:03,065 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-18 13:20:03,323 - SFINCS_new - sfincs - INFO - Model read
+2024-03-18 14:13:17,015 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-18 14:13:17,016 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-18 14:13:17,179 - SFINCS_new - sfincs - INFO - Model read
+2024-03-18 14:15:03,721 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-18 14:15:03,722 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-18 14:15:03,826 - SFINCS_new - sfincs - INFO - Model read
+2024-03-18 14:15:39,289 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-18 14:15:39,290 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-18 14:15:39,453 - SFINCS_new - sfincs - INFO - Model read
+2024-03-19 14:09:21,735 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-19 14:09:21,738 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-19 14:09:22,657 - SFINCS_new - sfincs - INFO - Model read
+2024-03-19 14:15:36,307 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-19 14:15:36,309 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-19 14:15:37,053 - SFINCS_new - sfincs - INFO - Model read
+2024-03-19 14:15:49,452 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\confidence\sfincs_folder\sfincs_0\gis.
+2024-03-20 16:01:46,476 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-20 16:01:46,485 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-20 16:01:47,319 - SFINCS_new - sfincs - INFO - Model read
+2024-03-20 17:34:38,481 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\confidence\sfincs_folder\sfincs_9\gis.
+2024-03-21 13:59:33,493 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-21 13:59:33,499 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-21 13:59:34,451 - SFINCS_new - sfincs - INFO - Model read
+2024-03-21 14:24:42,807 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-21 14:24:42,809 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-21 14:24:43,749 - SFINCS_new - sfincs - INFO - Model read
+2024-03-21 14:35:18,083 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\test\sfincs_folder\sfincs_0\gis.
+2024-03-21 16:54:11,273 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-21 16:54:11,279 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-21 16:54:11,914 - SFINCS_new - sfincs - INFO - Model read
+2024-03-21 17:28:15,164 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-21 17:28:15,169 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-21 17:28:16,406 - SFINCS_new - sfincs - INFO - Model read
+2024-03-21 18:47:09,909 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-21 18:47:09,914 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-21 18:47:10,747 - SFINCS_new - sfincs - INFO - Model read
+2024-03-21 19:29:20,607 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-21 19:29:20,609 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-21 19:29:20,992 - SFINCS_new - sfincs - INFO - Model read
+2024-03-21 20:26:16,266 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\test\sfincs_folder\sfincs_3\gis.
+2024-03-21 20:34:14,841 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-21 20:34:14,843 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-21 20:34:15,214 - SFINCS_new - sfincs - INFO - Model read
+2024-03-21 20:34:28,075 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\test\sfincs_folder\sfincs_3\gis.
+2024-03-21 20:35:51,803 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-21 20:35:51,811 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-21 20:35:52,187 - SFINCS_new - sfincs - INFO - Model read
+2024-03-21 20:52:00,896 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-21 20:52:00,899 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-21 20:52:01,432 - SFINCS_new - sfincs - INFO - Model read
+2024-03-21 20:52:36,852 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\test\sfincs_folder\sfincs_4\gis.
+2024-03-22 11:21:13,065 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-22 11:21:13,069 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-22 11:21:13,772 - SFINCS_new - sfincs - INFO - Model read
+2024-03-22 11:44:59,618 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_0\gis.
+2024-03-22 13:22:43,294 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_0\gis.
+2024-03-22 13:46:35,661 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_0\gis.
+2024-03-22 15:09:50,537 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_0_0\gis.
+2024-03-22 15:11:03,199 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_0_1\gis.
+2024-03-22 15:13:11,530 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_0_0\gis.
+2024-03-22 15:13:46,922 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_0_0\gis.
+2024-03-22 15:14:48,016 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_0_0\gis.
+2024-03-22 15:34:54,841 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_0_0\gis.
+2024-03-22 18:13:59,790 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_0_0\gis.
+2024-03-23 18:54:09,234 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_6_1\gis.
+2024-03-23 19:02:38,369 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_34_1\gis.
+2024-03-23 19:11:02,718 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_25_1\gis.
+2024-03-23 19:20:15,884 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_53_1\gis.
+2024-03-23 19:28:57,967 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_7_1\gis.
+2024-03-23 19:43:58,107 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_53_1\gis.
+2024-03-23 19:44:29,720 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_53_1\gis.
+2024-03-23 19:57:50,418 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_53_0\gis.
+2024-03-23 23:39:14,768 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work_skew\sfincs_folder\sfincs_0_0\gis.
+2024-03-24 17:34:11,751 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\work\sfincs_folder\sfincs_0_1\gis.
+2024-03-25 10:32:22,397 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\bc_sens_all_skew\sfincs_folder\sfincs_5_1\gis.
+2024-03-26 15:56:38,245 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-26 15:56:38,249 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-26 15:56:38,927 - SFINCS_new - sfincs - INFO - Model read
+2024-03-26 16:18:56,463 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-26 16:18:56,468 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-26 16:18:56,887 - SFINCS_new - sfincs - INFO - Model read
+2024-03-26 16:43:06,270 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-26 16:43:06,272 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-26 16:43:06,722 - SFINCS_new - sfincs - INFO - Model read
+2024-03-26 19:31:11,792 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-26 19:31:11,808 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-26 19:31:12,641 - SFINCS_new - sfincs - INFO - Model read
+2024-03-26 19:36:55,006 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-26 19:36:55,006 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-26 19:36:55,473 - SFINCS_new - sfincs - INFO - Model read
+2024-03-26 20:46:35,081 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-26 20:46:35,083 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-26 20:46:35,609 - SFINCS_new - sfincs - INFO - Model read
+2024-03-27 06:22:39,375 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-27 06:22:39,375 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-27 06:22:40,322 - SFINCS_new - sfincs - INFO - Model read
+2024-03-27 06:23:58,625 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\b0_prior\sfincs_folder\sfincs_50\gis.
+2024-03-27 08:53:25,459 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-27 08:53:25,461 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-27 08:53:26,221 - SFINCS_new - sfincs - INFO - Model read
+2024-03-27 08:59:47,674 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-27 08:59:47,676 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-27 08:59:48,086 - SFINCS_new - sfincs - INFO - Model read
+2024-03-27 09:17:29,316 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-27 09:17:29,318 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-27 09:17:29,921 - SFINCS_new - sfincs - INFO - Model read
+2024-03-27 20:50:57,467 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-27 20:50:57,469 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-27 20:50:58,437 - SFINCS_new - sfincs - INFO - Model read
+2024-03-27 20:51:48,919 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\bflat_prior\sfincs_folder\sfincs_42\gis.
+2024-03-27 22:11:11,212 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-27 22:11:11,212 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-27 22:11:12,321 - SFINCS_new - sfincs - INFO - Model read
+2024-03-27 22:11:13,529 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-27 22:11:13,529 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-27 22:11:14,235 - SFINCS_new - sfincs - INFO - Model read
+2024-03-28 10:51:45,638 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-28 10:51:45,643 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-28 10:51:46,290 - SFINCS_new - sfincs - INFO - Model read
+2024-03-29 10:36:08,369 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-03-29 10:36:08,369 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-03-29 10:36:08,665 - SFINCS_new - sfincs - INFO - Model read
+2024-04-02 15:11:26,520 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-04-02 15:11:26,524 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-04-02 15:11:27,338 - SFINCS_new - sfincs - INFO - Model read
+2024-04-03 09:49:13,853 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-04-03 09:49:13,855 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-04-03 09:49:14,431 - SFINCS_new - sfincs - INFO - Model read
+2024-04-04 14:08:03,716 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-04-04 14:08:03,719 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-04-04 14:08:04,529 - SFINCS_new - sfincs - INFO - Model read
+2024-04-04 16:40:24,627 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-04-04 16:40:24,629 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-04-04 16:40:25,121 - SFINCS_new - sfincs - INFO - Model read
+2024-04-05 09:59:03,743 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-04-05 09:59:03,747 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-04-05 09:59:04,327 - SFINCS_new - sfincs - INFO - Model read
+2024-04-08 18:37:13,820 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-04-08 18:37:13,824 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-04-08 18:37:14,979 - SFINCS_new - sfincs - INFO - Model read
+2024-04-09 06:56:39,507 - SFINCS_new - log - DEBUG - Appending log messages to file c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\FloodAdapt_stolen\hydromt.log.
+2024-04-09 06:56:39,512 - SFINCS_new - model_api - INFO - Initializing sfincs model from hydromt_sfincs (v1.0.3).
+2024-04-09 06:56:40,212 - SFINCS_new - sfincs - INFO - Model read
+2024-04-16 12:01:03,450 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\ground_2d\sfincs_folder\sfincs_0\gis.
+2024-04-16 12:01:17,822 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\ground_2d\sfincs_folder\sfincs_0\gis.
+2024-04-16 16:42:39,959 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\tgp_2d\sfincs_folder\sfincs_0\gis.
+2024-04-16 16:52:58,031 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\tgp_2d\sfincs_folder\sfincs_0\gis.
+2024-04-18 14:17:44,653 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\multi_2d\sfincs_folder\sfincs_0\gis.
+2024-04-18 14:20:40,275 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\multi_2d\sfincs_folder\sfincs_0\gis.
+2024-04-18 15:22:51,138 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\multi_2d\sfincs_folder\sfincs_0\gis.
+2024-04-18 15:27:35,052 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\multi_2d\sfincs_folder\sfincs_0\gis.
+2024-04-18 15:29:07,300 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\multi_2d\sfincs_folder\sfincs_0\gis.
+2024-04-18 17:14:22,246 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\multi_2d\sfincs_folder\sfincs_5\gis.
+2024-04-18 17:18:50,455 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\multi_2d\sfincs_folder\sfincs_4\gis.
+2024-04-18 17:20:28,708 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\multi_2d\sfincs_folder\sfincs_5\gis.
+2024-04-18 17:22:06,303 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\multi_2d\sfincs_folder\sfincs_6\gis.
+2024-04-19 14:13:50,672 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\will_work\sfincs_folder\sfincs_4\gis.
+2024-04-19 14:20:20,527 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\will_work\sfincs_folder\sfincs_5\gis.
+2024-04-19 15:22:11,200 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\will_work\sfincs_folder\sfincs_4\gis.
+2024-04-19 18:23:58,174 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\six_d\sfincs_folder\sfincs_2\gis.
+2024-04-19 18:39:00,426 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\six_d\sfincs_folder\sfincs_2\gis.
+2024-04-19 18:39:52,275 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\six_d\sfincs_folder\sfincs_2\gis.
+2024-04-19 18:42:55,770 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\six_d\sfincs_folder\sfincs_2\gis.
+2024-04-19 18:44:57,691 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\six_d\sfincs_folder\sfincs_2\gis.
+2024-04-19 23:16:59,645 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\six_d\sfincs_folder\sfincs_36\gis.
+2024-04-24 07:01:00,598 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\2d_all\sfincs_folder\sfincs_133\gis.
+2024-04-26 07:26:52,340 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\6d_all\sfincs_folder\sfincs_1\gis.
+2024-04-27 18:38:18,749 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\6d_all\sfincs_folder\sfincs_45\gis.
+2024-04-28 09:14:06,945 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\6d_all\sfincs_folder\sfincs_161\gis.
+2024-04-28 12:44:32,014 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\6d_all\sfincs_folder\sfincs_186\gis.
+2024-04-28 19:57:29,941 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\6d_all\sfincs_folder\sfincs_425\gis.
+2024-05-01 11:13:36,112 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\TGP_2d_single\sfincs_folder\sfincs_4\gis.
+2024-05-01 11:20:52,806 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\TGP_2d_single\sfincs_folder\sfincs_4\gis.
+2024-05-01 11:22:36,731 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\TGP_2d_single\sfincs_folder\sfincs_5\gis.
+2024-05-01 22:57:05,923 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\TGP_6d_single\sfincs_folder\sfincs_127\gis.
+2024-05-04 13:17:23,205 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\TGP_6d_single\sfincs_folder\sfincs_297\gis.
+2024-05-04 13:44:59,371 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\TGP_6d_single\sfincs_folder\sfincs_297\gis.
+2024-05-05 21:53:53,798 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\TGP_3d_single\sfincs_folder\sfincs_8\gis.
+2024-05-08 05:52:42,936 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\TGP_2d_multi\sfincs_folder\sfincs_4\gis.
+2024-05-11 21:30:42,584 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\TGP_4d_single\sfincs_folder\sfincs_0\gis.
+2024-05-12 16:47:51,977 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\Sensitvity_mags\sfincs_folder\sfincs_0\gis.
+2024-05-13 07:18:18,144 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\TGP_2d_multi\sfincs_folder\sfincs_0\gis.
+2024-05-13 18:51:49,657 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\TGP_2d_multi\sfincs_folder\sfincs_4\gis.
+2024-05-13 19:16:17,205 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\TGP_2d_sub\sfincs_folder\sfincs_0\gis.
+2024-05-22 07:16:38,147 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\2d_all_new\sfincs_folder\sfincs_0\gis.
+2024-07-25 16:34:34,873 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\terlinde\OneDrive - Stichting Deltares\Documents\GitHub\Compound_MLA\Models\Placeholder\gis.
+2024-10-02 11:48:49,716 - hydromt_sfincs.sfincs - model_api - WARNING - Model dir already exists and files might be overwritten: c:\Users\Admin\Documents\GitHub\Compound_MLA\Models\Placeholder\gis.
